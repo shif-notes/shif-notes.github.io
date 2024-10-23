@@ -1,5 +1,6 @@
 # shif-notes.github.io
 
 1) Updated contact links in all HTML files
-2) Added first post October 17, 2024
-3) Completed first post 22 10, 2024
+2) Added first post 17 October, 2024
+3) Completed first post 22 October, 2024
+4) Added second post 23 October, 2024
