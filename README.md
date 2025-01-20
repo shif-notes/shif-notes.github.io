@@ -6,3 +6,4 @@
 4) Added second post 23 October, 2024
 5) Added XML VS code post 6 December, 2024
 6) Cleaning
+7) Updated heading and about
