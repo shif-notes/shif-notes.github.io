@@ -4,12 +4,12 @@
 
 ### Installation
 ```bash
-pip install hello-pkg
+pip install mkdocs
 ```
 
 ### Usage
 This is a simple usage off the package
-```python
+<!-- ```python
 >>> import hello pkg
 
-```
+``` -->
