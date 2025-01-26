@@ -1,0 +1,9 @@
+site_name: hello-pkg
+site_url: https://shif-notes.github.io/mkdocs
+nav:
+  - Home: index.md
+  - UserGuide: userguide.md
+  - API: apireference.md
+  - About: about.md
+
+theme: readthedocs
