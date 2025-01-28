@@ -7,3 +7,4 @@
 5) Added XML VS code post 6 December, 2024
 6) Cleaning
 7) Updated heading and about
+8) MkDocs Site initializing
