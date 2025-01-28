@@ -30,9 +30,10 @@ extra_css:
 
 # repo_url: https://github.com/shif-notes/shif-notes.github.io
 plugins:
+  - search:
   - blog:
       blog_dir: .
-  - search:
+  
 
 
 markdown_extensions:
