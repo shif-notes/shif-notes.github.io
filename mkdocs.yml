@@ -9,21 +9,32 @@ theme:
     logo: fontawesome/solid/pen-to-square
   # favicon: fontawesome/solid/pen-to-square
   palette:
-    # Dark Mode
-    - scheme: slate
-      toggle:
-        icon: material/weather-sunny
-        name: Dark mode
-      primary: teal
-      accent: deep purple
+      # Light Mode
+    # - scheme: default
+      # toggle:
+        # icon: material/weather-night
+        # name: Light mode
+      primary: custom
+      accent: custom
+      
+    # # Dark Mode
+    # - scheme: custom
+    #   toggle:
+    #     icon: material/weather-sunny
+    #     name: Dark mode
+    #   primary: custom
+    #   accent: custom
 
-    # Light Mode
-    - scheme: default
-      toggle:
-        icon: material/weather-night
-        name: Light mode
-      primary: teal
-      accent: deep orange
+extra_css:
+  - stylesheets/extra.css
+
+# repo_url: https://github.com/shif-notes/shif-notes.github.io
+plugins:
+  - blog:
+      blog_dir: .
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
 
 markdown_extensions:
   - attr_list
