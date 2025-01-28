@@ -33,7 +33,6 @@ plugins:
   - blog:
       blog_dir: .
   - search:
-      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
 
 
 markdown_extensions:
