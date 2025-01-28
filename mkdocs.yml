@@ -24,15 +24,20 @@ theme:
     #     name: Dark mode
     #   primary: custom
     #   accent: custom
+  features:
+    - search.suggest
+    - search.highlight
 
 extra_css:
   - stylesheets/extra.css
 
 # repo_url: https://github.com/shif-notes/shif-notes.github.io
 plugins:
-  - search:
   - blog:
       blog_dir: .
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+
   
 
 
