@@ -6,11 +6,12 @@ categories:
 ---
 
 # Inspecting Contents on a Website
-### Have you ever wanted to know what kind of style a website is using?
 
-Well, there is a simple way to find that.
+## Have you ever wanted to know what kind of style a website is using?
 
 <!-- more -->
+
+Well, there is a simple way to find that.
 
 1. Hover over the content of the website and right-click.
 2. There, you can see the "Inspect" option. Click on it.
@@ -20,4 +21,8 @@ Well, there is a simple way to find that.
 5. The image below represents the HTML of the website page. You can edit it and see the changes on the site. The changes you make here are temporary and will disappear once you reload the website.
 6. The image below represents the styling of the website page.
 
-In this way, you can inspect the website. Thank you!
+In this way, you can inspect the website.
+
+---
+
+Thanks for reading!!!

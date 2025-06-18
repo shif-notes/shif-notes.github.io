@@ -6,8 +6,8 @@ categories:
 ---
 
 # Something about Electronics Engineering
-### Just a heartfelt piece from an Electronics Engineer
 
+## Just a heartfelt piece from an Electronics Engineer
 
 <!-- more -->
 
@@ -22,4 +22,7 @@ That's what I enjoyed the most incorporating both hardware and software in my co
 Having studied in this branch had broadened my perspective of technology that there are so many things and so many other things that can be done.
 
 From an Electronics Engineer
+
+---
+
 Thanks for reading!!!

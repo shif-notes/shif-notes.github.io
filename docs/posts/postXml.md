@@ -8,11 +8,11 @@ categories:
 
 # Basic setup for XML on VS Code
 
-### Formatting your XML file
-
-XML is Extensible Markup Language like HTML but with customizable tags.
+## Formatting your XML file
 
 <!-- more -->
+
+XML is Extensible Markup Language like HTML but with customizable tags.
 
 Visual Studio Code (VS Code) is a code editor. You can Install it with this link
 <https://code.visualstudio.com/download>
@@ -46,3 +46,7 @@ Following are the steps
     ![Alt text for the image](images/postXMLVS5.png)
 
 In this way you can easily format your XML file in VS Code.
+
+---
+
+Thanks for reading!!!
